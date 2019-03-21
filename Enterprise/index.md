@@ -1,6 +1,6 @@
 ---
 title: Office 365 Enterprise
-description: Microsoft Office 365 provides powerful online cloud services that enable collaboration, security and compliance, mobility, and intellgence and analytics. This page provides guidance for admins and IT Professionals who are deploying, configuring and managing Office 365 services in enterprise organizations.
+description: Microsoft Office 365 provides powerful online cloud services that enable collaboration, security and compliance, mobility, and intelligence and analytics. This page provides guidance for admins and IT Professionals who are deploying, configuring and managing Office 365 services in enterprise organizations.
 services: o365-solutions
 author: robmazz
 manager: laurawi
